@@ -8,7 +8,7 @@ If you wish to run the app from R Studio instead of going to the above link, you
 <ol>
   <li>Download all items in the the NBA R Shiny App Folder
   <li>Open NBA_shiny folder
-  <li>Open .Rproj in R Studio</li>
+  <li>Open NBAstatsRshiny.Rproj in R Studio</li>
   <li>Open app.R</li>
   <li>Click "Run App" in the upper right corner of the code panel</li>
   <li>(optional) Click "Open in Browser" in the upper left corner of the app window if you wish to view in browser</li>
