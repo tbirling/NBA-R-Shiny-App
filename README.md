@@ -2,7 +2,7 @@
 
 This dataset has statistics of all NBA Players in a per game format over the years 2018 to 2021. The data contains statistics such as points, assists, rebounds, age, games played and many more categories for each player. Our app does its best job to tell stories of how the NBA has looked over these years and highlights individual players performance as well.
 
-<h6>Reproducing the Report</h6>
+<h3>Reproducing the Report</h3>
 
 If you wish to run the app from R Studio instead of going to the above link, you can use the following steps:
 <ol>
