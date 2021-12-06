@@ -7,7 +7,7 @@ This dataset has statistics of all NBA Players in a per game format over the yea
 If you wish to run the app from R Studio instead of going to the above link, you can use the following steps:
 <ol>
   <li>Download all items in the the NBA R Shiny App Folder
-  <li>Open 
+  <li>Open NBA_
   <li>Make sure both .png files are in a folder called www</li>
   <li>Open data_prep2.R and click run</li>
   <li>Open app.R</li>
